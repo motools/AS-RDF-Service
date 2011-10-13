@@ -4,7 +4,7 @@ DBTune AudioScrobbler RDF Service
 About
 -----
 
-This directory provides a [Last.fm](http://last.fm) API to RDF converter. This is an extension of version 2.0 of this RDFizer. The DBTune AudioScrobbler RDF Service version 2.0 is aligned to the current [Last.fm API](http://last.fm/api) instead of the old [AudioScrobbler Web Service](http://audioscrobbler.net) that is utilised by version 1.0. Version 2.5 includes an alignment to further shared ontologies (see below for a listing of the new ontologies). 
+This directory provides a [Last.fm](http://last.fm) API to RDF converter. This is an extension of version 2.0 of this RDFizer. The DBTune AudioScrobbler RDF Service version 2.0 is aligned to the current [Last.fm API](http://last.fm/api) instead of the old [AudioScrobbler Web Service](http://audioscrobbler.net) that is utilised by version 1.0. Version 2.5 includes an alignment to further shared ontologies (see below for a listing of the new ontologies; see [here](http://smiy.wordpress.com/2011/07/17/semantic-federation-of-music-and-music-related-information-for-establishing-a-personal-music-knowledge-base/) for further details). 
 
 It includes modules
 
