@@ -4,7 +4,7 @@ DBTune AudioScrobbler RDF Service
 About
 -----
 
-This directory provides a Last.fm API to RDF converter. 
+This directory provides a [Last.fm](http://last.fm) API to RDF converter. 
 It includes modules (the file names are taken from the 2.x versions)
 
 * to convert specific requests (currently):
