@@ -9,7 +9,7 @@ It includes modules (the file names are taken from the 2.x versions)
 
 * to convert specific requests (currently):
 	* lastfm_friends.pl
-    	* lastfm_events.pl
+	* lastfm_events.pl
 	* lastfm_scrobbles.pl
 * general modules 
 	* to run the server
@@ -32,10 +32,16 @@ The converter makes heavy use of:
 * Friend-of-a-Friend Ontology 	(<http://xmlns.com/foaf/0.1/>)
 * Events Ontology 		(<http://purl.org/NET/c4dm/event.owl#>)
 
-* authors:
-	* Yves Raimond
-	* Bo Ferri
-* copyright: Yves Raimond, Bo Ferri; 2006 - 2010
+Authors
+-------
+
+* Yves Raimond
+* Bo Ferri
+
+Copyright
+---------
+
+Yves Raimond, Bo Ferri; 2006 - 2010
 
 PS
 --
