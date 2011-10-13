@@ -6,6 +6,7 @@ About
 
 This directory provides a Last.fm API to RDF converter. 
 It includes modules (the file names are taken from the 2.x versions)
+
 * to convert specific requests (currently):
 	* lastfm_friends.pl
     	* lastfm_events.pl
@@ -26,6 +27,7 @@ Please set up a Last.fm API key and secret in lastfm_config.pl.
 Please set the correct SWI-Prolog path in lastfm_run.pl.	
 
 The converter makes heavy use of:
+
 * The Music Ontology 		(<http://musicontology.com/>)
 * Friend-of-a-Friend Ontology 	(<http://xmlns.com/foaf/0.1/>)
 * Events Ontology 		(<http://purl.org/NET/c4dm/event.owl#>)
